@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+ <Ad id="474945424">
+  <InLine>
+   <AdSystem>DCM</AdSystem>
+   <AdTitle>In-Stream Video</AdTitle>
+   <Creatives>
+    <Creative id="135716523" sequence="1">
+     <Linear>
+      <Duration>00:00:15</Duration>
+      <MediaFiles>
+       <MediaFile delivery="progressive" width="360" height="640" type="video/mp4" bitrate="400" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=360&video_height=640&bitrate=400]]></MediaFile>
+       <MediaFile delivery="progressive" width="720" height="1280" type="video/mp4" bitrate="1982" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=720&video_height=1280&bitrate=1982]]></MediaFile>
+       <MediaFile delivery="progressive" width="1080" height="1920" type="video/mp4" bitrate="3980" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=1080&video_height=1920&bitrate=3980]]></MediaFile>
+       <MediaFile delivery="progressive" width="480" height="854" type="video/mp4" bitrate="719" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=480&video_height=854&bitrate=719]]></MediaFile>
+       <MediaFile delivery="progressive" width="270" height="480" type="video/mp4" bitrate="402" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=270&video_height=480&bitrate=402]]></MediaFile>
+       <MediaFile delivery="progressive" width="360" height="640" type="video/mp4" bitrate="998" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=360&video_height=640&bitrate=998]]></MediaFile>
+       <MediaFile delivery="progressive" width="360" height="640" type="video/mp4" bitrate="1491" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=360&video_height=640&bitrate=1491]]></MediaFile>
+       <MediaFile delivery="progressive" width="360" height="640" type="video/mp4" bitrate="298" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=360&video_height=640&bitrate=298]]></MediaFile>
+       <MediaFile delivery="progressive" width="406" height="720" type="video/mp4" bitrate="485" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=406&video_height=720&bitrate=485]]></MediaFile>
+       <MediaFile delivery="progressive" width="576" height="1024" type="video/mp4" bitrate="843" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=576&video_height=1024&bitrate=843]]></MediaFile>
+       <MediaFile delivery="progressive" width="540" height="960" type="video/mp4" bitrate="1249" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=540&video_height=960&bitrate=1249]]></MediaFile>
+       <MediaFile delivery="progressive" width="360" height="640" type="video/mp4" bitrate="537" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=360&video_height=640&bitrate=537]]></MediaFile>
+       <MediaFile delivery="progressive" width="480" height="854" type="video/mp4" bitrate="610" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=480&video_height=854&bitrate=610]]></MediaFile>
+       <MediaFile delivery="progressive" width="720" height="1280" type="video/mp4" bitrate="1821" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=720&video_height=1280&bitrate=1821]]></MediaFile>
+       <MediaFile delivery="progressive" width="1080" height="1920" type="video/mp4" bitrate="3880" scalable="false" maintainAspectRatio="false"><![CDATA[https://medias.presage.io/medias/videos/92ad95b7-5b02-4706-8160-fe4fcce9aa66.mp4-transcoded/offline.mp4?video_width=1080&video_height=1920&bitrate=3880]]></MediaFile>
+      </MediaFiles>
+     </Linear>
+    </Creative>
+   </Creatives>
+   <Extensions><Extension type="geo"><Country>FR</Country><Bandwidth>4</Bandwidth><BandwidthKbps>20000</BandwidthKbps></Extension><Extension type="dart"><AdServingData><DeliveryData><GeoData><![CDATA[ct=FR&st=&city=5022&dma=0&zp=67000&bw=4]]></GeoData></DeliveryData></AdServingData></Extension></Extensions>
+  </InLine>
+ </Ad>
+</VAST>
